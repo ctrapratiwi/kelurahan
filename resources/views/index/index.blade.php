@@ -6,8 +6,8 @@
 <link rel="icon" href="home.png">
 
 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-<link rel="stylesheet" type="text/css" href="{{ asset('css/index.css')}}" />
-<link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{ secure_asset('css/index.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{ secure_asset('css/bootstrap.css')}}" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://pendataan.baliprov.go.id/assets/frontend/map/MarkerCluster.css" />
