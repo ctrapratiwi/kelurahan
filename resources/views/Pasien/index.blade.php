@@ -19,7 +19,7 @@
                 <img src="/image/logo.png" class="img-responsive">
             </div>
             <div class="col-lg-9 tittle">
-                <h2>Peta Persebaran Covid-19 | Provinsi Bali</h2>
+                <h2>Persebaran Covid-19 | Provinsi Bali</h2>
             </div>
 
             <div class="row col-lg-2">
@@ -109,7 +109,7 @@
              </div><!--- End Col-lg-12 --->
 
              <div class="row text col-lg-12">
-                <div class="col-lg-6">&copy copyright 2020 Universitas Udayana</div>
+                <div class="col-lg-6">&copy copyright 2020 Citra Pratiwi 1705552051</div>
         	</div>
 
         </div><!--- End info --->
